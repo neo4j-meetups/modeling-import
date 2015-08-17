@@ -1,0 +1,3 @@
+= Neo4j Hands on modeling and import
+
+A tutorial to learn how to model and import data into Neo4j using link:http://data.gov.uk/dataset/road-accidents-safety-data[Road Safety Data]
